@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer Name,Region,State,Category,Product,Quantity,Discount,Sales,Profit,Salesperson,Payment Mode,Month,Year,Profit Margin
+ORD1001,2025-02-22,Customer 1,North,Haryana,Electronics,Tablet,2,0.05,41800.0,3917.56,Priya,Net Banking,Feb,2025,0.09372153110047847
+ORD1002,2025-11-05,Customer 2,West,Maharashtra,Electronics,Laptop,1,0.05,52250.0,5724.11,Neha,Net Banking,Nov,2025,0.10955234449760765
+ORD1003,2025-01-04,Customer 3,West,Maharashtra,Furniture,Cabinet,5,0.1,42750.0,8875.04,Rohit,Debit Card,Jan,2025,0.2076032748538012
+ORD1004,2025-02-19,Customer 4,East,Odisha,Furniture,Desk,3,0.0,36000.0,3087.6,Anjali,Net Banking,Feb,2025,0.08576666666666666
+ORD1005,2025-07-13,Customer 5,East,West Bengal,Electronics,Headphones,5,0.0,22500.0,5297.17,Vikas,Net Banking,Jul,2025,0.2354297777777778
+ORD1006,2025-02-10,Customer 6,East,West Bengal,Furniture,Office Chair,1,0.05,8075.0,1626.48,Priya,Cash,Feb,2025,0.20142167182662538
+ORD1007,2025-12-10,Customer 7,East,Odisha,Accessories,Wallet,2,0.1,2160.0,281.66,Priya,Net Banking,Dec,2025,0.13039814814814815
+ORD1008,2025-11-24,Customer 8,South,Telangana,Furniture,Desk,4,0.15,40800.0,4728.36,Neha,Debit Card,Nov,2025,0.11589117647058823
+ORD1009,2025-04-19,Customer 9,North,Haryana,Furniture,Office Chair,3,0.15,21675.0,2503.81,Anjali,Credit Card,Apr,2025,0.11551603229527105
+ORD1010,2025-10-15,Customer 10,West,Rajasthan,Accessories,Sunglasses,2,0.1,3240.0,303.71,Vikas,Net Banking,Oct,2025,0.09373765432098764
+ORD1011,2025-02-16,Customer 11,West,Maharashtra,Accessories,Wallet,2,0.05,2280.0,357.09,Priya,Credit Card,Feb,2025,0.15661842105263157
+ORD1012,2025-08-28,Customer 12,South,Telangana,Accessories,Backpack,4,0.15,7480.0,1281.33,Vikas,Net Banking,Aug,2025,0.17130080213903742
+ORD1013,2025-08-11,Customer 13,North,Delhi,Electronics,Tablet,6,0.1,118800.0,10568.91,Pooja,UPI,Aug,2025,0.08896388888888888
+ORD1014,2025-09-17,Customer 14,East,Bihar,Furniture,Office Chair,6,0.1,45900.0,9780.55,Neha,Credit Card,Sep,2025,0.21308387799564268
+ORD1015,2025-02-27,Customer 15,East,Odisha,Furniture,Office Chair,5,0.1,38250.0,5854.66,Vikas,Credit Card,Feb,2025,0.1530630065359477
+ORD1016,2025-09-30,Customer 16,North,Delhi,Furniture,Office Chair,1,0.15,7225.0,1508.03,Rahul,Cash,Sep,2025,0.20872387543252593
+ORD1017,2025-12-20,Customer 17,South,Karnataka,Clothing,Shoes,2,0.2,5600.0,1111.01,Vikas,Cash,Dec,2025,0.19839464285714287
+ORD1018,2025-06-23,Customer 18,East,West Bengal,Accessories,Sunglasses,1,0.05,1710.0,185.02,Neha,Net Banking,Jun,2025,0.10819883040935672
+ORD1019,2025-01-17,Customer 19,South,Tamil Nadu,Electronics,Laptop,6,0.0,330000.0,35943.63,Priya,Net Banking,Jan,2025,0.1089200909090909
+ORD1020,2025-10-20,Customer 20,South,Telangana,Clothing,Shoes,2,0.2,5600.0,517.96,Pooja,Credit Card,Oct,2025,0.09249285714285715
+ORD1021,2025-07-01,Customer 21,West,Gujarat,Accessories,Watch,1,0.0,5000.0,910.14,Rohit,Cash,Jul,2025,0.182028
+ORD1022,2025-02-25,Customer 22,North,Delhi,Electronics,Laptop,4,0.1,198000.0,40807.94,Neha,Credit Card,Feb,2025,0.20610070707070707
+ORD1023,2025-02-08,Customer 23,West,Gujarat,Furniture,Cabinet,2,0.1,17100.0,2541.86,Priya,UPI,Feb,2025,0.148646783625731
+ORD1024,2025-04-20,Customer 24,North,Uttar Pradesh,Electronics,Smartphone,2,0.15,47600.0,7261.81,Amit,Credit Card,Apr,2025,0.1525590336134454
+ORD1025,2025-12-23,Customer 25,West,Rajasthan,Electronics,Headphones,3,0.15,11475.0,1359.7,Pooja,Credit Card,Dec,2025,0.11849237472766885
+ORD1026,2025-02-01,Customer 26,South,Telangana,Clothing,Jeans,1,0.2,2000.0,390.15,Anjali,UPI,Feb,2025,0.195075
+ORD1027,2025-04-06,Customer 27,North,Delhi,Accessories,Watch,1,0.2,4000.0,334.48,Priya,Credit Card,Apr,2025,0.08362
+ORD1028,2025-02-11,Customer 28,West,Gujarat,Electronics,Smartphone,5,0.2,112000.0,8596.68,Anjali,Debit Card,Feb,2025,0.07675607142857144
+ORD1029,2025-11-27,Customer 29,South,Tamil Nadu,Clothing,Jeans,3,0.15,6375.0,588.09,Pooja,Debit Card,Nov,2025,0.09224941176470589
+ORD1030,2025-02-07,Customer 30,North,Haryana,Electronics,Headphones,5,0.2,18000.0,4308.06,Neha,Net Banking,Feb,2025,0.2393366666666667
+ORD1031,2025-03-22,Customer 31,East,Odisha,Furniture,Bookshelf,1,0.05,6650.0,883.25,Vikas,Net Banking,Mar,2025,0.13281954887218045
+ORD1032,2025-02-24,Customer 32,North,Haryana,Clothing,Shirt,2,0.1,3240.0,290.38,Rahul,Debit Card,Feb,2025,0.08962345679012346
+ORD1033,2025-05-09,Customer 33,East,West Bengal,Furniture,Bookshelf,2,0.1,12600.0,1964.59,Priya,Cash,May,2025,0.15591984126984126
+ORD1034,2025-05-15,Customer 34,East,West Bengal,Electronics,Laptop,3,0.05,156750.0,27949.98,Pooja,Net Banking,May,2025,0.17830928229665072
+ORD1035,2025-07-09,Customer 35,West,Rajasthan,Electronics,Laptop,1,0.05,52250.0,8503.71,Rahul,Cash,Jul,2025,0.16275043062200956
+ORD1036,2025-04-18,Customer 36,South,Telangana,Electronics,Tablet,3,0.0,66000.0,14705.93,Neha,UPI,Apr,2025,0.22281712121212122
+ORD1037,2025-04-01,Customer 37,East,Odisha,Accessories,Watch,2,0.05,9500.0,2241.57,Amit,Credit Card,Apr,2025,0.23595473684210527
+ORD1038,2025-02-25,Customer 38,East,Odisha,Accessories,Watch,3,0.05,14250.0,2904.91,Amit,Cash,Feb,2025,0.20385333333333333
+ORD1039,2025-04-27,Customer 39,South,Karnataka,Furniture,Cabinet,3,0.1,25650.0,5373.45,Amit,Credit Card,Apr,2025,0.20949122807017542
+ORD1040,2025-09-18,Customer 40,West,Gujarat,Clothing,Jacket,1,0.1,3780.0,490.25,Anjali,UPI,Sep,2025,0.1296957671957672
+ORD1041,2025-11-02,Customer 41,North,Uttar Pradesh,Clothing,Jeans,5,0.1,11250.0,860.67,Anjali,Debit Card,Nov,2025,0.076504
+ORD1042,2025-12-29,Customer 42,West,Gujarat,Electronics,Headphones,5,0.05,21375.0,2421.85,Amit,Net Banking,Dec,2025,0.11330292397660818
+ORD1043,2025-12-06,Customer 43,South,Karnataka,Clothing,Shoes,1,0.1,3150.0,554.2,Vikas,Net Banking,Dec,2025,0.17593650793650795
+ORD1044,2025-04-09,Customer 44,East,Odisha,Accessories,Wallet,4,0.1,4320.0,709.56,Rohit,Credit Card,Apr,2025,0.16424999999999998
+ORD1045,2025-10-24,Customer 45,East,Bihar,Accessories,Backpack,3,0.1,5940.0,628.04,Anjali,Cash,Oct,2025,0.10573063973063973
+ORD1046,2025-03-28,Customer 46,West,Rajasthan,Accessories,Watch,5,0.15,21250.0,4354.87,Priya,Debit Card,Mar,2025,0.20493505882352941
+ORD1047,2025-04-12,Customer 47,East,West Bengal,Electronics,Smartphone,6,0.1,151200.0,16358.16,Amit,UPI,Apr,2025,0.10818888888888889
+ORD1048,2025-10-22,Customer 48,South,Karnataka,Accessories,Backpack,4,0.15,7480.0,1650.41,Rohit,Cash,Oct,2025,0.22064304812834226
+ORD1049,2025-02-24,Customer 49,West,Gujarat,Furniture,Desk,6,0.0,72000.0,15966.16,Neha,Credit Card,Feb,2025,0.2217522222222222
+ORD1050,2025-08-26,Customer 50,West,Rajasthan,Electronics,Smartphone,1,0.15,23800.0,2205.49,Anjali,Cash,Aug,2025,0.09266764705882352
+ORD1051,2025-05-07,Customer 51,West,Rajasthan,Accessories,Watch,6,0.15,25500.0,3736.05,Vikas,Net Banking,May,2025,0.14651176470588237
+ORD1052,2025-05-01,Customer 52,West,Gujarat,Furniture,Bookshelf,4,0.0,28000.0,5356.47,Anjali,Debit Card,May,2025,0.19130250000000001
+ORD1053,2025-12-28,Customer 53,North,Delhi,Furniture,Desk,2,0.15,20400.0,3834.62,Priya,Cash,Dec,2025,0.18797156862745099
+ORD1054,2025-08-04,Customer 54,West,Gujarat,Clothing,Shoes,4,0.0,14000.0,1472.27,Amit,Net Banking,Aug,2025,0.10516214285714286
+ORD1055,2025-08-03,Customer 55,West,Rajasthan,Accessories,Backpack,3,0.1,5940.0,1176.66,Neha,Cash,Aug,2025,0.1980909090909091
+ORD1056,2025-12-09,Customer 56,South,Telangana,Clothing,Shoes,4,0.0,14000.0,1905.48,Rohit,Credit Card,Dec,2025,0.13610571428571427
+ORD1057,2025-01-14,Customer 57,West,Maharashtra,Furniture,Office Chair,4,0.2,27200.0,4513.75,Rohit,Credit Card,Jan,2025,0.1659466911764706
+ORD1058,2025-08-21,Customer 58,West,Gujarat,Furniture,Office Chair,3,0.15,21675.0,2723.46,Anjali,Cash,Aug,2025,0.12564982698961938
+ORD1059,2025-10-04,Customer 59,East,West Bengal,Accessories,Wallet,1,0.15,1020.0,74.76,Anjali,Credit Card,Oct,2025,0.07329411764705883
+ORD1060,2025-11-15,Customer 60,North,Delhi,Electronics,Laptop,2,0.05,104500.0,22223.9,Neha,Credit Card,Nov,2025,0.21266889952153112
+ORD1061,2025-03-27,Customer 61,West,Rajasthan,Electronics,Smartphone,4,0.1,100800.0,20197.57,Priya,Credit Card,Mar,2025,0.20037271825396824
+ORD1062,2025-07-12,Customer 62,East,Odisha,Electronics,Laptop,3,0.2,132000.0,24439.67,Neha,UPI,Jul,2025,0.18514901515151513
+ORD1063,2025-10-17,Customer 63,South,Karnataka,Electronics,Tablet,6,0.2,105600.0,21852.84,Anjali,Net Banking,Oct,2025,0.20693977272727274
+ORD1064,2025-08-04,Customer 64,West,Gujarat,Clothing,Shirt,5,0.1,8100.0,584.42,Priya,Cash,Aug,2025,0.07215061728395061
+ORD1065,2025-11-30,Customer 65,East,Odisha,Accessories,Watch,4,0.05,19000.0,3700.16,Pooja,Cash,Nov,2025,0.19474526315789473
+ORD1066,2025-08-19,Customer 66,West,Maharashtra,Clothing,Jacket,2,0.0,8400.0,986.31,Pooja,Net Banking,Aug,2025,0.11741785714285714
+ORD1067,2025-04-19,Customer 67,West,Gujarat,Clothing,Shirt,4,0.1,6480.0,653.91,Vikas,Debit Card,Apr,2025,0.10091203703703704
+ORD1068,2025-07-28,Customer 68,East,Odisha,Clothing,Shirt,5,0.05,8550.0,722.94,Neha,Cash,Jul,2025,0.08455438596491228
+ORD1069,2025-12-21,Customer 69,West,Maharashtra,Accessories,Backpack,1,0.1,1980.0,213.19,Vikas,Net Banking,Dec,2025,0.10767171717171717
+ORD1070,2025-12-26,Customer 70,East,Odisha,Accessories,Wallet,4,0.2,3840.0,484.74,Vikas,Debit Card,Dec,2025,0.126234375
+ORD1071,2025-10-02,Customer 71,East,Bihar,Furniture,Office Chair,6,0.05,48450.0,5990.51,Rahul,Credit Card,Oct,2025,0.12364313725490196
+ORD1072,2025-09-26,Customer 72,South,Telangana,Accessories,Wallet,6,0.2,5760.0,1359.49,Vikas,UPI,Sep,2025,0.23602256944444444
+ORD1073,2025-12-29,Customer 73,South,Telangana,Clothing,Jeans,3,0.05,7125.0,864.87,Rahul,Debit Card,Dec,2025,0.12138526315789473
+ORD1074,2025-09-09,Customer 74,North,Delhi,Electronics,Tablet,6,0.05,125400.0,22376.11,Amit,Net Banking,Sep,2025,0.17843787878787878
+ORD1075,2025-01-27,Customer 75,East,Odisha,Accessories,Sunglasses,4,0.1,6480.0,656.7,Pooja,UPI,Jan,2025,0.1013425925925926
+ORD1076,2025-01-28,Customer 76,North,Delhi,Accessories,Sunglasses,1,0.2,1440.0,254.89,Rahul,Net Banking,Jan,2025,0.17700694444444443
+ORD1077,2025-11-07,Customer 77,East,Bihar,Electronics,Smartphone,1,0.2,22400.0,4479.0,Neha,Net Banking,Nov,2025,0.19995535714285714
+ORD1078,2025-06-06,Customer 78,West,Rajasthan,Accessories,Sunglasses,3,0.2,4320.0,1029.48,Amit,Net Banking,Jun,2025,0.23830555555555555
+ORD1079,2025-03-30,Customer 79,North,Haryana,Furniture,Desk,3,0.0,36000.0,3481.19,Priya,Credit Card,Mar,2025,0.09669972222222223
+ORD1080,2025-01-17,Customer 80,North,Delhi,Accessories,Sunglasses,6,0.2,8640.0,1295.01,Vikas,Debit Card,Jan,2025,0.14988541666666666
+ORD1081,2025-04-12,Customer 81,West,Gujarat,Electronics,Smartphone,3,0.2,67200.0,12257.36,Priya,Net Banking,Apr,2025,0.1824011904761905
+ORD1082,2025-06-07,Customer 82,South,Telangana,Furniture,Bookshelf,2,0.0,14000.0,1121.94,Vikas,Cash,Jun,2025,0.08013857142857143
+ORD1083,2025-09-14,Customer 83,North,Haryana,Accessories,Wallet,6,0.15,6120.0,1409.16,Pooja,Cash,Sep,2025,0.23025490196078433
+ORD1084,2025-01-14,Customer 84,North,Delhi,Electronics,Headphones,6,0.1,24300.0,4194.94,Neha,Net Banking,Jan,2025,0.1726312757201646
+ORD1085,2025-08-15,Customer 85,North,Uttar Pradesh,Clothing,Shirt,2,0.15,3060.0,484.16,Rahul,Net Banking,Aug,2025,0.15822222222222224
+ORD1086,2025-06-14,Customer 86,West,Rajasthan,Accessories,Backpack,4,0.1,7920.0,1104.2,Priya,Credit Card,Jun,2025,0.13941919191919191
+ORD1087,2025-10-09,Customer 87,East,West Bengal,Accessories,Sunglasses,3,0.15,4590.0,956.13,Pooja,UPI,Oct,2025,0.20830718954248367
+ORD1088,2025-01-01,Customer 88,East,Bihar,Clothing,Jacket,1,0.15,3570.0,774.81,Pooja,Cash,Jan,2025,0.21703361344537814
+ORD1089,2025-01-27,Customer 89,North,Delhi,Furniture,Bookshelf,5,0.15,29750.0,5245.5,Vikas,Net Banking,Jan,2025,0.17631932773109243
+ORD1090,2025-11-19,Customer 90,South,Telangana,Clothing,Shoes,6,0.15,17850.0,1617.97,Neha,Credit Card,Nov,2025,0.09064257703081233
+ORD1091,2025-02-28,Customer 91,East,Odisha,Electronics,Headphones,1,0.05,4275.0,1020.37,Priya,Credit Card,Feb,2025,0.23868304093567252
+ORD1092,2025-05-05,Customer 92,West,Gujarat,Clothing,Jacket,4,0.15,14280.0,3379.24,Rahul,Cash,May,2025,0.23664145658263303
+ORD1093,2025-09-17,Customer 93,South,Tamil Nadu,Furniture,Office Chair,3,0.15,21675.0,2769.61,Amit,Debit Card,Sep,2025,0.12777900807381776
+ORD1094,2025-06-20,Customer 94,East,Bihar,Accessories,Watch,4,0.2,16000.0,2437.41,Rohit,Cash,Jun,2025,0.152338125
+ORD1095,2025-07-30,Customer 95,East,West Bengal,Furniture,Desk,5,0.15,51000.0,5594.99,Anjali,Cash,Jul,2025,0.1097056862745098
+ORD1096,2025-10-30,Customer 96,West,Gujarat,Accessories,Watch,4,0.0,20000.0,1829.24,Priya,Cash,Oct,2025,0.091462
+ORD1097,2025-12-02,Customer 97,North,Delhi,Accessories,Backpack,6,0.05,12540.0,1751.79,Priya,Cash,Dec,2025,0.13969617224880382
+ORD1098,2025-12-12,Customer 98,East,Bihar,Clothing,Shoes,6,0.0,21000.0,4510.8,Rohit,Debit Card,Dec,2025,0.21480000000000002
+ORD1099,2025-02-16,Customer 99,West,Gujarat,Electronics,Laptop,2,0.1,99000.0,23716.68,Priya,UPI,Feb,2025,0.23956242424242424
+ORD1100,2025-01-29,Customer 100,West,Gujarat,Furniture,Bookshelf,1,0.0,7000.0,876.01,Anjali,Debit Card,Jan,2025,0.1251442857142857
+ORD1101,2025-04-03,Customer 101,West,Maharashtra,Furniture,Desk,5,0.15,51000.0,8476.6,Rahul,UPI,Apr,2025,0.1662078431372549
+ORD1102,2025-11-23,Customer 102,West,Gujarat,Furniture,Cabinet,5,0.05,45125.0,4939.93,Pooja,Debit Card,Nov,2025,0.10947213296398893
+ORD1103,2025-08-15,Customer 103,North,Uttar Pradesh,Accessories,Wallet,6,0.2,5760.0,557.89,Vikas,Cash,Aug,2025,0.09685590277777778
+ORD1104,2025-02-24,Customer 104,East,West Bengal,Accessories,Wallet,2,0.15,2040.0,438.74,Rohit,Net Banking,Feb,2025,0.2150686274509804
+ORD1105,2025-10-17,Customer 105,East,Bihar,Clothing,Jacket,1,0.15,3570.0,416.48,Amit,Net Banking,Oct,2025,0.11666106442577032
+ORD1106,2025-04-08,Customer 106,West,Rajasthan,Clothing,Jeans,5,0.1,11250.0,1206.35,Vikas,Credit Card,Apr,2025,0.1072311111111111
+ORD1107,2025-03-09,Customer 107,North,Delhi,Electronics,Tablet,4,0.0,88000.0,14830.42,Vikas,Debit Card,Mar,2025,0.1685275
+ORD1108,2025-07-07,Customer 108,West,Rajasthan,Furniture,Desk,2,0.2,19200.0,4204.77,Vikas,Credit Card,Jul,2025,0.21899843750000003
+ORD1109,2025-08-28,Customer 109,East,West Bengal,Accessories,Wallet,6,0.1,6480.0,1339.54,Rahul,Credit Card,Aug,2025,0.20671913580246912
+ORD1110,2025-03-05,Customer 110,West,Gujarat,Clothing,Shirt,4,0.0,7200.0,827.7,Anjali,Debit Card,Mar,2025,0.11495833333333334
+ORD1111,2025-11-14,Customer 111,West,Rajasthan,Clothing,Shirt,6,0.05,10260.0,1540.55,Anjali,Net Banking,Nov,2025,0.15015107212475634
+ORD1112,2025-03-01,Customer 112,South,Karnataka,Electronics,Headphones,6,0.1,24300.0,4383.01,Amit,UPI,Mar,2025,0.18037078189300412
+ORD1113,2025-03-11,Customer 113,East,Odisha,Accessories,Backpack,1,0.05,2090.0,461.54,Pooja,Debit Card,Mar,2025,0.22083253588516746
+ORD1114,2025-11-12,Customer 114,West,Gujarat,Furniture,Cabinet,6,0.0,57000.0,12068.49,Vikas,UPI,Nov,2025,0.21172789473684211
+ORD1115,2025-02-20,Customer 115,East,Bihar,Furniture,Cabinet,4,0.05,36100.0,7776.9,Anjali,Net Banking,Feb,2025,0.21542659279778392
+ORD1116,2025-08-21,Customer 116,East,West Bengal,Electronics,Headphones,3,0.05,12825.0,3008.68,Neha,Net Banking,Aug,2025,0.23459493177387913
+ORD1117,2025-04-16,Customer 117,North,Delhi,Electronics,Tablet,2,0.05,41800.0,8518.27,Neha,Net Banking,Apr,2025,0.20378636363636365
+ORD1118,2025-03-16,Customer 118,South,Karnataka,Furniture,Bookshelf,2,0.2,11200.0,789.4,Vikas,Credit Card,Mar,2025,0.07048214285714285
+ORD1119,2025-05-02,Customer 119,North,Haryana,Electronics,Smartphone,1,0.1,25200.0,5148.29,Anjali,UPI,May,2025,0.2042972222222222
+ORD1120,2025-02-02,Customer 120,South,Tamil Nadu,Clothing,Shirt,2,0.15,3060.0,487.87,Pooja,Debit Card,Feb,2025,0.15943464052287581
+ORD1121,2025-12-04,Customer 121,North,Haryana,Accessories,Watch,5,0.0,25000.0,4840.78,Vikas,Cash,Dec,2025,0.1936312
+ORD1122,2025-09-09,Customer 122,North,Haryana,Electronics,Headphones,4,0.15,15300.0,2855.54,Pooja,UPI,Sep,2025,0.18663660130718954
+ORD1123,2025-11-21,Customer 123,North,Haryana,Clothing,Jeans,1,0.05,2375.0,277.29,Anjali,Cash,Nov,2025,0.11675368421052633
+ORD1124,2025-11-30,Customer 124,East,Bihar,Accessories,Sunglasses,1,0.0,1800.0,386.95,Neha,Cash,Nov,2025,0.2149722222222222
+ORD1125,2025-02-18,Customer 125,West,Gujarat,Furniture,Cabinet,3,0.15,24225.0,3337.82,Rohit,Debit Card,Feb,2025,0.1377841073271414
+ORD1126,2025-02-13,Customer 126,East,West Bengal,Clothing,Jeans,6,0.15,12750.0,1038.01,Rohit,UPI,Feb,2025,0.08141254901960784
+ORD1127,2025-12-10,Customer 127,East,West Bengal,Furniture,Office Chair,5,0.2,34000.0,5626.53,Rohit,Debit Card,Dec,2025,0.16548617647058822
+ORD1128,2025-10-23,Customer 128,West,Rajasthan,Electronics,Tablet,5,0.1,99000.0,12848.21,Neha,Credit Card,Oct,2025,0.12977989898989897
+ORD1129,2025-05-23,Customer 129,West,Rajasthan,Furniture,Office Chair,3,0.2,20400.0,2702.7,Neha,Cash,May,2025,0.13248529411764706
+ORD1130,2025-06-08,Customer 130,North,Uttar Pradesh,Clothing,Shirt,2,0.1,3240.0,613.85,Anjali,UPI,Jun,2025,0.1894598765432099
+ORD1131,2025-01-16,Customer 131,South,Karnataka,Furniture,Cabinet,1,0.05,9025.0,1768.58,Neha,Cash,Jan,2025,0.1959645429362881
+ORD1132,2025-06-16,Customer 132,West,Rajasthan,Accessories,Wallet,2,0.1,2160.0,265.63,Priya,UPI,Jun,2025,0.12297685185185185
+ORD1133,2025-12-05,Customer 133,South,Tamil Nadu,Furniture,Office Chair,6,0.0,51000.0,5929.13,Pooja,Net Banking,Dec,2025,0.11625745098039215
+ORD1134,2025-08-09,Customer 134,West,Maharashtra,Accessories,Wallet,2,0.2,1920.0,171.55,Vikas,Net Banking,Aug,2025,0.08934895833333334
+ORD1135,2025-01-29,Customer 135,West,Maharashtra,Clothing,Shirt,2,0.15,3060.0,726.31,Neha,Debit Card,Jan,2025,0.2373562091503268
+ORD1136,2025-09-12,Customer 136,South,Telangana,Furniture,Bookshelf,3,0.1,18900.0,1708.51,Rohit,Credit Card,Sep,2025,0.09039735449735449
+ORD1137,2025-07-01,Customer 137,South,Karnataka,Accessories,Watch,5,0.2,20000.0,4233.4,Rohit,UPI,Jul,2025,0.21166999999999997
+ORD1138,2025-10-21,Customer 138,West,Gujarat,Electronics,Headphones,1,0.1,4050.0,679.91,Rohit,Debit Card,Oct,2025,0.167879012345679
+ORD1139,2025-11-13,Customer 139,North,Uttar Pradesh,Accessories,Backpack,3,0.05,6270.0,1293.03,Anjali,UPI,Nov,2025,0.20622488038277512
+ORD1140,2025-02-10,Customer 140,West,Gujarat,Electronics,Smartphone,4,0.2,89600.0,12371.65,Vikas,Debit Card,Feb,2025,0.13807645089285714
+ORD1141,2025-09-29,Customer 141,South,Telangana,Clothing,Jeans,1,0.2,2000.0,355.3,Neha,Debit Card,Sep,2025,0.17765
+ORD1142,2025-03-30,Customer 142,East,Bihar,Furniture,Desk,1,0.05,11400.0,1294.07,Rahul,UPI,Mar,2025,0.11351491228070175
+ORD1143,2025-10-17,Customer 143,South,Telangana,Accessories,Sunglasses,5,0.2,7200.0,1053.46,Anjali,Debit Card,Oct,2025,0.14631388888888888
+ORD1144,2025-05-21,Customer 144,South,Telangana,Accessories,Backpack,4,0.15,7480.0,1326.47,Amit,Debit Card,May,2025,0.1773355614973262
+ORD1145,2025-05-27,Customer 145,North,Delhi,Clothing,Shoes,4,0.0,14000.0,1115.4,Priya,Net Banking,May,2025,0.07967142857142857
+ORD1146,2025-06-14,Customer 146,West,Rajasthan,Accessories,Backpack,4,0.2,7040.0,1272.92,Pooja,Net Banking,Jun,2025,0.18081250000000001
+ORD1147,2025-02-13,Customer 147,South,Telangana,Electronics,Headphones,1,0.1,4050.0,959.87,Rahul,UPI,Feb,2025,0.23700493827160493
+ORD1148,2025-07-06,Customer 148,South,Tamil Nadu,Accessories,Sunglasses,5,0.2,7200.0,1250.4,Vikas,Cash,Jul,2025,0.1736666666666667
+ORD1149,2025-02-18,Customer 149,West,Rajasthan,Clothing,Shirt,6,0.1,9720.0,789.31,Rohit,Debit Card,Feb,2025,0.08120473251028806
+ORD1150,2025-06-29,Customer 150,East,Odisha,Furniture,Bookshelf,1,0.2,5600.0,1023.76,Rohit,Credit Card,Jun,2025,0.1828142857142857
+ORD1151,2025-12-10,Customer 151,North,Haryana,Clothing,Shoes,6,0.1,18900.0,3935.76,Priya,Cash,Dec,2025,0.20824126984126987
+ORD1152,2025-06-24,Customer 152,East,Odisha,Electronics,Tablet,3,0.05,62700.0,14527.51,Neha,Credit Card,Jun,2025,0.23169872408293463
+ORD1153,2025-10-04,Customer 153,South,Telangana,Furniture,Office Chair,3,0.0,25500.0,3985.83,Amit,Debit Card,Oct,2025,0.1563070588235294
+ORD1154,2025-11-16,Customer 154,South,Karnataka,Accessories,Watch,2,0.05,9500.0,2007.62,Pooja,UPI,Nov,2025,0.21132842105263155
+ORD1155,2025-08-18,Customer 155,West,Maharashtra,Clothing,Jeans,4,0.2,8000.0,947.5,Neha,Debit Card,Aug,2025,0.1184375
+ORD1156,2025-08-25,Customer 156,West,Gujarat,Furniture,Bookshelf,6,0.2,33600.0,7975.12,Rohit,Net Banking,Aug,2025,0.2373547619047619
+ORD1157,2025-01-27,Customer 157,West,Rajasthan,Furniture,Desk,5,0.05,57000.0,12449.39,Pooja,Debit Card,Jan,2025,0.21841035087719296
+ORD1158,2025-09-20,Customer 158,North,Delhi,Electronics,Tablet,1,0.05,20900.0,2432.23,Rohit,UPI,Sep,2025,0.11637464114832535
+ORD1159,2025-09-15,Customer 159,South,Tamil Nadu,Accessories,Wallet,1,0.15,1020.0,80.63,Neha,Cash,Sep,2025,0.07904901960784314
+ORD1160,2025-11-29,Customer 160,North,Uttar Pradesh,Clothing,Jeans,1,0.1,2250.0,513.54,Rahul,Credit Card,Nov,2025,0.22823999999999997
+ORD1161,2025-08-29,Customer 161,North,Uttar Pradesh,Clothing,Shoes,6,0.05,19950.0,3970.11,Amit,UPI,Aug,2025,0.199003007518797
+ORD1162,2025-11-08,Customer 162,North,Haryana,Clothing,Jeans,2,0.2,4000.0,919.35,Rohit,UPI,Nov,2025,0.2298375
+ORD1163,2025-11-24,Customer 163,East,Bihar,Furniture,Bookshelf,1,0.0,7000.0,773.74,Pooja,UPI,Nov,2025,0.11053428571428571
+ORD1164,2025-03-15,Customer 164,North,Uttar Pradesh,Accessories,Backpack,6,0.2,10560.0,1771.53,Rohit,UPI,Mar,2025,0.16775852272727274
+ORD1165,2025-07-04,Customer 165,East,West Bengal,Furniture,Cabinet,2,0.0,19000.0,3020.86,Amit,Cash,Jul,2025,0.15899263157894739
+ORD1166,2025-07-02,Customer 166,West,Maharashtra,Electronics,Headphones,3,0.1,12150.0,2394.08,Anjali,Credit Card,Jul,2025,0.19704362139917694
+ORD1167,2025-11-26,Customer 167,North,Delhi,Clothing,Jeans,1,0.1,2250.0,366.35,Pooja,Cash,Nov,2025,0.16282222222222223
+ORD1168,2025-04-14,Customer 168,South,Karnataka,Furniture,Office Chair,6,0.15,43350.0,3307.05,Neha,UPI,Apr,2025,0.07628719723183391
+ORD1169,2025-11-28,Customer 169,East,West Bengal,Clothing,Shoes,5,0.15,14875.0,1681.82,Vikas,Debit Card,Nov,2025,0.1130635294117647
+ORD1170,2025-07-24,Customer 170,North,Haryana,Clothing,Jacket,1,0.1,3780.0,545.38,Pooja,Cash,Jul,2025,0.1442804232804233
+ORD1171,2025-09-23,Customer 171,East,Odisha,Furniture,Cabinet,6,0.15,48450.0,6417.15,Priya,Cash,Sep,2025,0.1324489164086687
+ORD1172,2025-02-10,Customer 172,North,Uttar Pradesh,Accessories,Watch,5,0.1,22500.0,2803.63,Vikas,Debit Card,Feb,2025,0.12460577777777779
+ORD1173,2025-01-22,Customer 173,West,Rajasthan,Accessories,Watch,6,0.15,25500.0,3308.96,Anjali,Net Banking,Jan,2025,0.12976313725490196
+ORD1174,2025-12-14,Customer 174,West,Maharashtra,Clothing,Shirt,1,0.15,1530.0,201.6,Amit,Credit Card,Dec,2025,0.13176470588235295
+ORD1175,2025-07-07,Customer 175,West,Gujarat,Electronics,Smartphone,1,0.05,26600.0,5382.45,Rohit,Net Banking,Jul,2025,0.20234774436090225
+ORD1176,2025-02-09,Customer 176,North,Haryana,Furniture,Cabinet,3,0.1,25650.0,3731.3,Rahul,Net Banking,Feb,2025,0.14546978557504875
+ORD1177,2025-02-28,Customer 177,East,West Bengal,Accessories,Wallet,6,0.1,6480.0,728.57,Rahul,Cash,Feb,2025,0.11243364197530865
+ORD1178,2025-11-10,Customer 178,West,Gujarat,Electronics,Tablet,3,0.15,56100.0,5973.36,Pooja,Credit Card,Nov,2025,0.10647700534759358
+ORD1179,2025-08-16,Customer 179,North,Delhi,Furniture,Office Chair,4,0.05,32300.0,7195.65,Anjali,Debit Card,Aug,2025,0.2227755417956656
+ORD1180,2025-09-18,Customer 180,North,Delhi,Clothing,Jacket,2,0.05,7980.0,1635.33,Priya,Credit Card,Sep,2025,0.20492857142857143
+ORD1181,2025-07-08,Customer 181,South,Tamil Nadu,Furniture,Cabinet,1,0.1,8550.0,1403.77,Rahul,Net Banking,Jul,2025,0.16418362573099415
+ORD1182,2025-07-29,Customer 182,North,Haryana,Electronics,Tablet,4,0.15,74800.0,11920.75,Priya,Credit Card,Jul,2025,0.15936831550802139
+ORD1183,2025-10-10,Customer 183,East,Bihar,Electronics,Headphones,4,0.2,14400.0,1851.37,Rahul,Credit Card,Oct,2025,0.1285673611111111
+ORD1184,2025-03-24,Customer 184,West,Gujarat,Electronics,Laptop,5,0.05,261250.0,31794.43,Neha,Debit Card,Mar,2025,0.12170116746411483
+ORD1185,2025-11-17,Customer 185,East,Odisha,Electronics,Tablet,2,0.2,35200.0,4106.31,Priya,Net Banking,Nov,2025,0.1166565340909091
+ORD1186,2025-11-06,Customer 186,South,Tamil Nadu,Furniture,Desk,6,0.2,57600.0,11088.44,Amit,UPI,Nov,2025,0.1925076388888889
+ORD1187,2025-08-02,Customer 187,North,Haryana,Electronics,Tablet,6,0.05,125400.0,25128.03,Amit,Cash,Aug,2025,0.20038301435406697
+ORD1188,2025-02-07,Customer 188,East,Bihar,Clothing,Shoes,2,0.15,5950.0,717.35,Amit,Credit Card,Feb,2025,0.12056302521008404
+ORD1189,2025-03-15,Customer 189,West,Gujarat,Accessories,Sunglasses,4,0.05,6840.0,874.38,Anjali,Debit Card,Mar,2025,0.12783333333333333
+ORD1190,2025-05-04,Customer 190,West,Gujarat,Furniture,Bookshelf,5,0.2,28000.0,2465.44,Priya,Debit Card,May,2025,0.08805142857142857
+ORD1191,2025-07-16,Customer 191,West,Rajasthan,Furniture,Desk,1,0.0,12000.0,1432.03,Rohit,Credit Card,Jul,2025,0.11933583333333334
+ORD1192,2025-09-21,Customer 192,South,Tamil Nadu,Clothing,Jacket,2,0.05,7980.0,1234.55,Pooja,Debit Card,Sep,2025,0.15470551378446115
+ORD1193,2025-05-04,Customer 193,West,Maharashtra,Electronics,Laptop,4,0.2,176000.0,26000.34,Anjali,UPI,May,2025,0.14772920454545455
+ORD1194,2025-01-05,Customer 194,North,Delhi,Clothing,Shoes,5,0.15,14875.0,1763.84,Rohit,Credit Card,Jan,2025,0.11857747899159664
+ORD1195,2025-10-19,Customer 195,East,Bihar,Clothing,Shoes,3,0.0,10500.0,1450.04,Neha,Debit Card,Oct,2025,0.13809904761904762
+ORD1196,2025-05-24,Customer 196,East,Bihar,Electronics,Headphones,5,0.15,19125.0,3824.02,Priya,Credit Card,May,2025,0.19994875816993463
+ORD1197,2025-03-15,Customer 197,North,Delhi,Accessories,Wallet,3,0.2,2880.0,661.31,Rohit,Net Banking,Mar,2025,0.22962152777777775
+ORD1198,2025-09-23,Customer 198,North,Uttar Pradesh,Electronics,Laptop,2,0.1,99000.0,20460.75,Rahul,Net Banking,Sep,2025,0.20667424242424243
+ORD1199,2025-06-03,Customer 199,South,Telangana,Clothing,Jacket,2,0.15,7140.0,1702.21,Anjali,Net Banking,Jun,2025,0.2384047619047619
+ORD1200,2025-02-26,Customer 200,West,Gujarat,Clothing,Shoes,1,0.1,3150.0,397.88,Vikas,UPI,Feb,2025,0.1263111111111111
+ORD1201,2025-03-29,Customer 201,West,Rajasthan,Clothing,Jeans,6,0.0,15000.0,2537.98,Rohit,Credit Card,Mar,2025,0.16919866666666666
+ORD1202,2025-08-03,Customer 202,South,Karnataka,Electronics,Laptop,2,0.0,110000.0,15947.42,Rohit,Credit Card,Aug,2025,0.14497654545454547
+ORD1203,2025-10-15,Customer 203,West,Gujarat,Accessories,Backpack,6,0.05,12540.0,1983.53,Pooja,Net Banking,Oct,2025,0.15817623604465708
+ORD1204,2025-07-01,Customer 204,West,Rajasthan,Clothing,Jeans,4,0.2,8000.0,1025.56,Vikas,Net Banking,Jul,2025,0.128195
+ORD1205,2025-06-02,Customer 205,West,Gujarat,Furniture,Desk,3,0.2,28800.0,3477.45,Neha,Cash,Jun,2025,0.12074479166666666
+ORD1206,2025-10-21,Customer 206,East,Bihar,Accessories,Wallet,5,0.1,5400.0,642.19,Rohit,Cash,Oct,2025,0.11892407407407408
+ORD1207,2025-02-10,Customer 207,East,Odisha,Furniture,Bookshelf,1,0.1,6300.0,1464.14,Pooja,Debit Card,Feb,2025,0.2324031746031746
+ORD1208,2025-12-23,Customer 208,West,Gujarat,Furniture,Desk,5,0.1,54000.0,12345.16,Rahul,UPI,Dec,2025,0.22861407407407408
+ORD1209,2025-04-30,Customer 209,South,Karnataka,Furniture,Office Chair,6,0.2,40800.0,4421.26,Priya,Cash,Apr,2025,0.10836421568627451
+ORD1210,2025-10-09,Customer 210,East,West Bengal,Accessories,Backpack,6,0.05,12540.0,888.85,Rohit,Cash,Oct,2025,0.07088118022328549
+ORD1211,2025-02-15,Customer 211,West,Rajasthan,Furniture,Bookshelf,3,0.1,18900.0,3398.27,Neha,Net Banking,Feb,2025,0.1798026455026455
+ORD1212,2025-07-23,Customer 212,North,Uttar Pradesh,Furniture,Cabinet,2,0.0,19000.0,4550.86,Rahul,Debit Card,Jul,2025,0.23951894736842103
+ORD1213,2025-06-21,Customer 213,North,Uttar Pradesh,Electronics,Tablet,5,0.2,88000.0,7765.22,Pooja,Net Banking,Jun,2025,0.08824113636363637
+ORD1214,2025-06-19,Customer 214,West,Maharashtra,Furniture,Cabinet,3,0.05,27075.0,5618.02,Pooja,Debit Card,Jun,2025,0.20749843028624193
+ORD1215,2025-04-09,Customer 215,South,Karnataka,Electronics,Tablet,3,0.2,52800.0,9749.42,Rohit,Cash,Apr,2025,0.18464810606060605
+ORD1216,2025-03-13,Customer 216,East,Odisha,Electronics,Headphones,6,0.0,27000.0,2738.15,Anjali,Credit Card,Mar,2025,0.10141296296296297
+ORD1217,2025-06-18,Customer 217,North,Uttar Pradesh,Clothing,Shoes,2,0.15,5950.0,1178.92,Amit,Debit Card,Jun,2025,0.19813781512605044
+ORD1218,2025-03-23,Customer 218,East,Odisha,Furniture,Office Chair,6,0.0,51000.0,7604.97,Vikas,UPI,Mar,2025,0.1491170588235294
+ORD1219,2025-08-21,Customer 219,East,Bihar,Clothing,Jeans,2,0.05,4750.0,718.63,Anjali,Cash,Aug,2025,0.1512905263157895
+ORD1220,2025-02-11,Customer 220,West,Rajasthan,Furniture,Desk,6,0.2,57600.0,12581.74,Pooja,Net Banking,Feb,2025,0.21843298611111112
+ORD1221,2025-04-14,Customer 221,East,Bihar,Electronics,Laptop,1,0.2,44000.0,9833.6,Rahul,Credit Card,Apr,2025,0.2234909090909091
+ORD1222,2025-09-08,Customer 222,East,West Bengal,Accessories,Backpack,6,0.05,12540.0,2406.13,Pooja,UPI,Sep,2025,0.19187639553429028
+ORD1223,2025-08-25,Customer 223,West,Rajasthan,Furniture,Cabinet,4,0.2,30400.0,2426.38,Vikas,UPI,Aug,2025,0.07981513157894737
+ORD1224,2025-01-24,Customer 224,West,Gujarat,Clothing,Shirt,6,0.05,10260.0,1726.89,Anjali,UPI,Jan,2025,0.16831286549707603
+ORD1225,2025-03-11,Customer 225,North,Haryana,Electronics,Headphones,1,0.1,4050.0,565.0,Rohit,Debit Card,Mar,2025,0.13950617283950617
+ORD1226,2025-12-05,Customer 226,West,Rajasthan,Accessories,Sunglasses,4,0.0,7200.0,1339.66,Rahul,Debit Card,Dec,2025,0.1860638888888889
+ORD1227,2025-04-25,Customer 227,North,Delhi,Furniture,Cabinet,5,0.05,45125.0,8742.33,Amit,Debit Card,Apr,2025,0.19373584487534626
+ORD1228,2025-03-21,Customer 228,West,Gujarat,Accessories,Sunglasses,2,0.05,3420.0,507.21,Neha,UPI,Mar,2025,0.14830701754385964
+ORD1229,2025-11-01,Customer 229,North,Delhi,Accessories,Backpack,2,0.05,4180.0,340.42,Pooja,Net Banking,Nov,2025,0.08144019138755981
+ORD1230,2025-04-22,Customer 230,North,Delhi,Furniture,Office Chair,4,0.15,28900.0,3174.31,Rahul,Net Banking,Apr,2025,0.10983771626297578
+ORD1231,2025-06-14,Customer 231,East,West Bengal,Furniture,Bookshelf,5,0.2,28000.0,5637.28,Vikas,Credit Card,Jun,2025,0.20133142857142855
+ORD1232,2025-10-30,Customer 232,South,Telangana,Accessories,Wallet,3,0.0,3600.0,592.71,Rahul,Cash,Oct,2025,0.1646416666666667
+ORD1233,2025-06-13,Customer 233,West,Rajasthan,Electronics,Tablet,6,0.15,112200.0,22842.44,Rohit,Cash,Jun,2025,0.2035868092691622
+ORD1234,2025-04-26,Customer 234,South,Tamil Nadu,Clothing,Shoes,2,0.2,5600.0,842.79,Rahul,Cash,Apr,2025,0.15049821428571428
+ORD1235,2025-05-05,Customer 235,North,Uttar Pradesh,Accessories,Sunglasses,5,0.2,7200.0,668.13,Neha,Debit Card,May,2025,0.09279583333333333
+ORD1236,2025-04-08,Customer 236,North,Delhi,Accessories,Wallet,1,0.2,960.0,185.45,Vikas,Cash,Apr,2025,0.19317708333333333
+ORD1237,2025-04-17,Customer 237,North,Uttar Pradesh,Electronics,Smartphone,5,0.2,112000.0,11971.99,Vikas,UPI,Apr,2025,0.10689276785714286
+ORD1238,2025-12-23,Customer 238,South,Telangana,Furniture,Office Chair,6,0.15,43350.0,9773.48,Neha,Cash,Dec,2025,0.2254551326412918
+ORD1239,2025-07-03,Customer 239,South,Tamil Nadu,Clothing,Jacket,4,0.15,14280.0,2295.09,Vikas,Debit Card,Jul,2025,0.16072058823529412
+ORD1240,2025-06-13,Customer 240,West,Maharashtra,Accessories,Backpack,6,0.15,11220.0,2238.13,Anjali,Debit Card,Jun,2025,0.19947682709447417
+ORD1241,2025-10-11,Customer 241,West,Rajasthan,Electronics,Smartphone,6,0.05,159600.0,11612.08,Rohit,Debit Card,Oct,2025,0.07275739348370927
+ORD1242,2025-05-06,Customer 242,South,Tamil Nadu,Furniture,Bookshelf,2,0.15,11900.0,1985.68,Anjali,Debit Card,May,2025,0.1668638655462185
+ORD1243,2025-10-07,Customer 243,West,Gujarat,Accessories,Sunglasses,2,0.1,3240.0,320.03,Rahul,Net Banking,Oct,2025,0.09877469135802468
+ORD1244,2025-07-31,Customer 244,North,Delhi,Electronics,Laptop,6,0.0,330000.0,65979.41,Neha,UPI,Jul,2025,0.19993760606060607
+ORD1245,2025-11-13,Customer 245,South,Telangana,Electronics,Smartphone,5,0.15,119000.0,15879.85,Pooja,Cash,Nov,2025,0.13344411764705882
+ORD1246,2025-05-21,Customer 246,North,Haryana,Electronics,Headphones,1,0.0,4500.0,720.0,Vikas,UPI,May,2025,0.16
+ORD1247,2025-04-09,Customer 247,West,Rajasthan,Furniture,Office Chair,1,0.2,6800.0,648.13,Vikas,Debit Card,Apr,2025,0.09531323529411764
+ORD1248,2025-05-05,Customer 248,East,Bihar,Accessories,Backpack,3,0.15,5610.0,830.45,Neha,Debit Card,May,2025,0.14803030303030304
+ORD1249,2025-09-01,Customer 249,North,Delhi,Electronics,Laptop,4,0.15,187000.0,25080.22,Amit,Credit Card,Sep,2025,0.13411882352941176
+ORD1250,2025-02-18,Customer 250,North,Haryana,Accessories,Sunglasses,6,0.1,9720.0,1615.42,Amit,Credit Card,Feb,2025,0.16619547325102882
+ORD1251,2025-05-24,Customer 251,South,Telangana,Accessories,Wallet,1,0.0,1200.0,223.62,Amit,Credit Card,May,2025,0.18635000000000002
+ORD1252,2025-12-31,Customer 252,East,Odisha,Electronics,Smartphone,5,0.05,133000.0,26318.47,Priya,Debit Card,Dec,2025,0.19788323308270678
+ORD1253,2025-03-13,Customer 253,South,Telangana,Furniture,Cabinet,6,0.2,45600.0,5763.57,Priya,Net Banking,Mar,2025,0.12639407894736843
+ORD1254,2025-06-24,Customer 254,East,Bihar,Electronics,Laptop,4,0.05,209000.0,44428.11,Rohit,Debit Card,Jun,2025,0.2125746889952153
+ORD1255,2025-07-12,Customer 255,North,Uttar Pradesh,Clothing,Shoes,4,0.05,13300.0,1735.49,Rahul,Net Banking,Jul,2025,0.13048796992481204
+ORD1256,2025-03-20,Customer 256,West,Gujarat,Electronics,Tablet,2,0.0,44000.0,3693.64,Rahul,Cash,Mar,2025,0.08394636363636364
+ORD1257,2025-08-16,Customer 257,East,Odisha,Clothing,Shirt,1,0.0,1800.0,414.55,Vikas,UPI,Aug,2025,0.23030555555555557
+ORD1258,2025-09-20,Customer 258,South,Tamil Nadu,Electronics,Smartphone,4,0.15,95200.0,15678.25,Priya,UPI,Sep,2025,0.1646875
+ORD1259,2025-07-17,Customer 259,North,Delhi,Clothing,Shirt,5,0.2,7200.0,1464.15,Vikas,Cash,Jul,2025,0.20335416666666667
+ORD1260,2025-07-14,Customer 260,West,Maharashtra,Electronics,Smartphone,5,0.2,112000.0,11068.86,Rahul,Debit Card,Jul,2025,0.09882910714285714
+ORD1261,2025-05-22,Customer 261,East,Odisha,Clothing,Shoes,2,0.0,7000.0,688.98,Vikas,Cash,May,2025,0.09842571428571428
+ORD1262,2025-04-11,Customer 262,North,Uttar Pradesh,Clothing,Jacket,2,0.15,7140.0,1220.56,Priya,Credit Card,Apr,2025,0.1709467787114846
+ORD1263,2025-06-18,Customer 263,East,Odisha,Electronics,Headphones,3,0.2,10800.0,1453.48,Anjali,Cash,Jun,2025,0.1345814814814815
+ORD1264,2025-04-01,Customer 264,South,Tamil Nadu,Clothing,Jacket,5,0.05,19950.0,3021.06,Anjali,Debit Card,Apr,2025,0.15143157894736842
+ORD1265,2025-07-21,Customer 265,West,Gujarat,Furniture,Bookshelf,4,0.1,25200.0,5261.86,Priya,Net Banking,Jul,2025,0.20880396825396824
+ORD1266,2025-04-18,Customer 266,South,Tamil Nadu,Furniture,Office Chair,6,0.15,43350.0,9983.75,Vikas,UPI,Apr,2025,0.2303056516724337
+ORD1267,2025-12-04,Customer 267,West,Maharashtra,Accessories,Watch,6,0.1,27000.0,3000.88,Rohit,Cash,Dec,2025,0.1111437037037037
+ORD1268,2025-12-21,Customer 268,North,Uttar Pradesh,Accessories,Sunglasses,5,0.15,7650.0,1230.44,Amit,Debit Card,Dec,2025,0.1608418300653595
+ORD1269,2025-11-10,Customer 269,North,Delhi,Electronics,Smartphone,6,0.1,151200.0,14859.56,Rohit,Debit Card,Nov,2025,0.09827751322751323
+ORD1270,2025-09-23,Customer 270,West,Rajasthan,Electronics,Laptop,1,0.1,49500.0,5333.14,Neha,Cash,Sep,2025,0.10774020202020203
+ORD1271,2025-03-19,Customer 271,East,Odisha,Accessories,Sunglasses,6,0.2,8640.0,1618.91,Amit,Cash,Mar,2025,0.1873738425925926
+ORD1272,2025-03-14,Customer 272,North,Uttar Pradesh,Clothing,Shoes,1,0.0,3500.0,739.63,Vikas,Debit Card,Mar,2025,0.21132285714285715
+ORD1273,2025-12-23,Customer 273,West,Gujarat,Furniture,Cabinet,3,0.15,24225.0,2097.79,Anjali,UPI,Dec,2025,0.08659607843137254
+ORD1274,2025-12-13,Customer 274,East,West Bengal,Electronics,Laptop,1,0.1,49500.0,8917.67,Neha,Net Banking,Dec,2025,0.1801549494949495
+ORD1275,2025-04-29,Customer 275,South,Tamil Nadu,Furniture,Bookshelf,5,0.15,29750.0,6929.92,Rahul,Credit Card,Apr,2025,0.23293848739495798
+ORD1276,2025-08-19,Customer 276,West,Rajasthan,Accessories,Backpack,6,0.2,10560.0,2324.54,Rohit,Cash,Aug,2025,0.22012689393939394
+ORD1277,2025-10-02,Customer 277,North,Delhi,Furniture,Desk,3,0.0,36000.0,6053.37,Anjali,Debit Card,Oct,2025,0.16814916666666666
+ORD1278,2025-11-24,Customer 278,South,Tamil Nadu,Accessories,Backpack,3,0.15,5610.0,895.98,Rohit,Net Banking,Nov,2025,0.15971122994652406
+ORD1279,2025-12-11,Customer 279,West,Rajasthan,Electronics,Tablet,3,0.15,56100.0,9814.79,Vikas,Net Banking,Dec,2025,0.1749516934046346
+ORD1280,2025-04-04,Customer 280,North,Uttar Pradesh,Furniture,Bookshelf,1,0.05,6650.0,810.73,Rahul,Net Banking,Apr,2025,0.12191428571428571
+ORD1281,2025-09-07,Customer 281,West,Rajasthan,Accessories,Watch,5,0.15,21250.0,3015.73,Rahul,Net Banking,Sep,2025,0.14191670588235294
+ORD1282,2025-08-19,Customer 282,South,Telangana,Accessories,Wallet,2,0.05,2280.0,281.53,Amit,Debit Card,Aug,2025,0.12347807017543859
+ORD1283,2025-09-16,Customer 283,North,Haryana,Accessories,Watch,2,0.15,8500.0,1987.73,Pooja,Cash,Sep,2025,0.23385058823529412
+ORD1284,2025-01-16,Customer 284,West,Maharashtra,Accessories,Sunglasses,4,0.05,6840.0,574.93,Vikas,UPI,Jan,2025,0.08405409356725145
+ORD1285,2025-09-11,Customer 285,East,Bihar,Furniture,Bookshelf,2,0.15,11900.0,1977.31,Priya,Net Banking,Sep,2025,0.16616050420168066
+ORD1286,2025-08-14,Customer 286,North,Haryana,Clothing,Jacket,5,0.0,21000.0,4183.21,Neha,Cash,Aug,2025,0.1992004761904762
+ORD1287,2025-02-14,Customer 287,North,Uttar Pradesh,Furniture,Bookshelf,1,0.15,5950.0,682.34,Priya,Credit Card,Feb,2025,0.11467899159663866
+ORD1288,2025-04-16,Customer 288,South,Karnataka,Clothing,Shoes,2,0.2,5600.0,524.55,Amit,Net Banking,Apr,2025,0.09366964285714285
+ORD1289,2025-05-17,Customer 289,East,Bihar,Clothing,Jeans,3,0.1,6750.0,804.51,Priya,Credit Card,May,2025,0.11918666666666666
+ORD1290,2025-03-09,Customer 290,West,Maharashtra,Electronics,Tablet,6,0.05,125400.0,23731.01,Rahul,Debit Card,Mar,2025,0.18924250398724082
+ORD1291,2025-11-18,Customer 291,South,Tamil Nadu,Accessories,Sunglasses,2,0.2,2880.0,511.22,Rohit,Cash,Nov,2025,0.17750694444444445
+ORD1292,2025-07-08,Customer 292,North,Uttar Pradesh,Electronics,Headphones,5,0.1,20250.0,3809.02,Pooja,Debit Card,Jul,2025,0.18809975308641974
+ORD1293,2025-10-01,Customer 293,North,Uttar Pradesh,Electronics,Headphones,6,0.1,24300.0,5212.79,Neha,Cash,Oct,2025,0.21451810699588478
+ORD1294,2025-10-23,Customer 294,South,Karnataka,Accessories,Wallet,3,0.1,3240.0,412.84,Pooja,Debit Card,Oct,2025,0.12741975308641976
+ORD1295,2025-03-22,Customer 295,North,Uttar Pradesh,Electronics,Laptop,6,0.15,280500.0,20411.38,Pooja,UPI,Mar,2025,0.0727678431372549
+ORD1296,2025-05-21,Customer 296,West,Maharashtra,Furniture,Desk,6,0.1,64800.0,6287.3,Anjali,Debit Card,May,2025,0.09702623456790124
+ORD1297,2025-12-25,Customer 297,North,Delhi,Clothing,Jeans,1,0.15,2125.0,374.75,Rohit,UPI,Dec,2025,0.1763529411764706
+ORD1298,2025-04-26,Customer 298,North,Haryana,Electronics,Smartphone,4,0.0,112000.0,10366.6,Pooja,UPI,Apr,2025,0.09255892857142857
+ORD1299,2025-04-28,Customer 299,North,Uttar Pradesh,Clothing,Shirt,4,0.05,6840.0,1034.27,Priya,UPI,Apr,2025,0.15120906432748538
+ORD1300,2025-03-10,Customer 300,North,Haryana,Clothing,Jacket,3,0.05,11970.0,1616.7,Rahul,UPI,Mar,2025,0.13506265664160402
+ORD1301,2025-03-19,Customer 301,North,Uttar Pradesh,Furniture,Cabinet,3,0.05,27075.0,4786.15,Pooja,Credit Card,Mar,2025,0.1767737765466297
+ORD1302,2025-06-29,Customer 302,North,Uttar Pradesh,Electronics,Smartphone,1,0.2,22400.0,4347.87,Anjali,Credit Card,Jun,2025,0.19410133928571427
+ORD1303,2025-11-08,Customer 303,South,Tamil Nadu,Clothing,Shirt,2,0.2,2880.0,495.85,Amit,Debit Card,Nov,2025,0.1721701388888889
+ORD1304,2025-05-03,Customer 304,South,Tamil Nadu,Furniture,Cabinet,3,0.0,28500.0,5792.52,Rohit,UPI,May,2025,0.2032463157894737
+ORD1305,2025-06-12,Customer 305,South,Karnataka,Accessories,Backpack,5,0.0,11000.0,2615.47,Rohit,Net Banking,Jun,2025,0.23776999999999998
+ORD1306,2025-02-04,Customer 306,West,Maharashtra,Clothing,Jeans,4,0.0,10000.0,728.37,Vikas,Credit Card,Feb,2025,0.072837
+ORD1307,2025-09-14,Customer 307,North,Uttar Pradesh,Electronics,Headphones,5,0.1,20250.0,3581.35,Rohit,Cash,Sep,2025,0.1768567901234568
+ORD1308,2025-04-15,Customer 308,North,Delhi,Furniture,Bookshelf,1,0.1,6300.0,525.63,Anjali,Cash,Apr,2025,0.08343333333333333
+ORD1309,2025-02-14,Customer 309,North,Uttar Pradesh,Clothing,Shoes,6,0.05,19950.0,1592.89,Priya,Cash,Feb,2025,0.07984411027568923
+ORD1310,2025-12-26,Customer 310,North,Delhi,Clothing,Jeans,1,0.0,2500.0,475.86,Rahul,Cash,Dec,2025,0.190344
+ORD1311,2025-05-18,Customer 311,East,Bihar,Clothing,Jeans,3,0.05,7125.0,1406.92,Priya,UPI,May,2025,0.19746245614035088
+ORD1312,2025-10-23,Customer 312,East,Bihar,Accessories,Wallet,5,0.0,6000.0,688.21,Priya,Cash,Oct,2025,0.11470166666666667
+ORD1313,2025-03-22,Customer 313,West,Gujarat,Clothing,Shirt,4,0.2,5760.0,566.61,Priya,Net Banking,Mar,2025,0.09836979166666666
+ORD1314,2025-08-30,Customer 314,North,Uttar Pradesh,Furniture,Office Chair,1,0.0,8500.0,948.38,Rohit,Credit Card,Aug,2025,0.11157411764705882
+ORD1315,2025-06-13,Customer 315,South,Tamil Nadu,Electronics,Headphones,2,0.1,8100.0,908.86,Priya,Net Banking,Jun,2025,0.11220493827160494
+ORD1316,2025-01-24,Customer 316,East,Odisha,Electronics,Laptop,2,0.05,104500.0,21604.06,Priya,Cash,Jan,2025,0.2067374162679426
+ORD1317,2025-07-08,Customer 317,East,West Bengal,Clothing,Jacket,1,0.2,3360.0,496.09,Vikas,Net Banking,Jul,2025,0.14764583333333334
+ORD1318,2025-04-11,Customer 318,East,Bihar,Furniture,Cabinet,3,0.2,22800.0,5362.92,Neha,Credit Card,Apr,2025,0.2352157894736842
+ORD1319,2025-12-22,Customer 319,North,Delhi,Accessories,Backpack,2,0.2,3520.0,453.7,Anjali,UPI,Dec,2025,0.12889204545454544
+ORD1320,2025-08-03,Customer 320,West,Gujarat,Clothing,Shirt,2,0.2,2880.0,682.93,Amit,Credit Card,Aug,2025,0.2371284722222222
+ORD1321,2025-07-10,Customer 321,East,Odisha,Electronics,Laptop,2,0.2,88000.0,12339.33,Priya,Net Banking,Jul,2025,0.14021965909090908
+ORD1322,2025-08-11,Customer 322,North,Haryana,Furniture,Cabinet,1,0.2,7600.0,1265.62,Rahul,Credit Card,Aug,2025,0.16652894736842103
+ORD1323,2025-05-20,Customer 323,East,West Bengal,Clothing,Jacket,4,0.1,15120.0,1875.94,Priya,Credit Card,May,2025,0.12407010582010583
+ORD1324,2025-06-10,Customer 324,South,Tamil Nadu,Electronics,Smartphone,1,0.05,26600.0,3894.94,Priya,Net Banking,Jun,2025,0.14642631578947368
+ORD1325,2025-03-03,Customer 325,East,West Bengal,Furniture,Cabinet,3,0.15,24225.0,2787.12,Rahul,Debit Card,Mar,2025,0.11505139318885449
+ORD1326,2025-07-02,Customer 326,North,Uttar Pradesh,Furniture,Bookshelf,2,0.0,14000.0,2672.55,Amit,Debit Card,Jul,2025,0.19089642857142858
+ORD1327,2025-10-09,Customer 327,East,West Bengal,Furniture,Office Chair,4,0.15,28900.0,4754.4,Priya,Cash,Oct,2025,0.1645121107266436
+ORD1328,2025-04-24,Customer 328,North,Delhi,Furniture,Office Chair,1,0.0,8500.0,1794.89,Neha,Cash,Apr,2025,0.21116352941176472
+ORD1329,2025-04-12,Customer 329,East,Bihar,Electronics,Tablet,1,0.0,22000.0,5269.38,Pooja,Credit Card,Apr,2025,0.23951727272727275
+ORD1330,2025-10-21,Customer 330,North,Uttar Pradesh,Clothing,Shirt,1,0.15,1530.0,120.27,Rohit,Cash,Oct,2025,0.0786078431372549
+ORD1331,2025-04-06,Customer 331,North,Uttar Pradesh,Accessories,Sunglasses,2,0.1,3240.0,345.07,Vikas,Cash,Apr,2025,0.10650308641975309
+ORD1332,2025-10-09,Customer 332,South,Tamil Nadu,Electronics,Smartphone,6,0.1,151200.0,23407.51,Amit,UPI,Oct,2025,0.15481157407407406
+ORD1333,2025-09-27,Customer 333,East,West Bengal,Accessories,Watch,4,0.05,19000.0,3405.77,Amit,Cash,Sep,2025,0.17925105263157895
+ORD1334,2025-07-18,Customer 334,East,Odisha,Accessories,Sunglasses,3,0.2,4320.0,671.36,Rahul,UPI,Jul,2025,0.1554074074074074
+ORD1335,2025-08-30,Customer 335,East,Bihar,Furniture,Office Chair,3,0.0,25500.0,5290.51,Anjali,Net Banking,Aug,2025,0.20747098039215686
+ORD1336,2025-01-29,Customer 336,South,Karnataka,Furniture,Office Chair,2,0.05,16150.0,1862.25,Rohit,Debit Card,Jan,2025,0.11530959752321981
+ORD1337,2025-12-24,Customer 337,South,Tamil Nadu,Furniture,Desk,5,0.1,54000.0,11181.01,Amit,Debit Card,Dec,2025,0.20705574074074073
+ORD1338,2025-01-20,Customer 338,South,Karnataka,Furniture,Cabinet,5,0.1,42750.0,4268.36,Amit,Credit Card,Jan,2025,0.09984467836257309
+ORD1339,2025-04-14,Customer 339,South,Karnataka,Electronics,Headphones,1,0.1,4050.0,915.47,Anjali,Credit Card,Apr,2025,0.22604197530864198
+ORD1340,2025-03-14,Customer 340,East,West Bengal,Electronics,Laptop,2,0.2,88000.0,16702.26,Anjali,UPI,Mar,2025,0.18979840909090906
+ORD1341,2025-03-22,Customer 341,East,Bihar,Accessories,Backpack,3,0.1,5940.0,741.56,Rohit,Cash,Mar,2025,0.12484175084175084
+ORD1342,2025-07-13,Customer 342,East,Odisha,Furniture,Bookshelf,2,0.2,11200.0,2334.72,Vikas,Credit Card,Jul,2025,0.20845714285714284
+ORD1343,2025-06-12,Customer 343,South,Telangana,Electronics,Headphones,5,0.0,22500.0,2271.46,Neha,Net Banking,Jun,2025,0.10095377777777778
+ORD1344,2025-06-13,Customer 344,North,Delhi,Accessories,Watch,3,0.0,15000.0,1656.89,Priya,Debit Card,Jun,2025,0.11045933333333334
+ORD1345,2025-06-29,Customer 345,West,Gujarat,Electronics,Tablet,2,0.05,41800.0,7851.71,Priya,UPI,Jun,2025,0.18783995215311006
+ORD1346,2025-07-31,Customer 346,North,Uttar Pradesh,Accessories,Sunglasses,6,0.15,9180.0,2154.98,Rohit,Debit Card,Jul,2025,0.23474727668845316
+ORD1347,2025-02-07,Customer 347,West,Maharashtra,Electronics,Headphones,5,0.05,21375.0,2087.3,Vikas,UPI,Feb,2025,0.0976514619883041
+ORD1348,2025-07-12,Customer 348,East,West Bengal,Clothing,Shirt,1,0.1,1620.0,160.25,Priya,Net Banking,Jul,2025,0.09891975308641976
+ORD1349,2025-12-01,Customer 349,North,Delhi,Clothing,Shoes,6,0.0,21000.0,3009.82,Rohit,Credit Card,Dec,2025,0.1433247619047619
+ORD1350,2025-10-11,Customer 350,North,Haryana,Electronics,Tablet,2,0.05,41800.0,5834.34,Vikas,Debit Card,Oct,2025,0.1395775119617225
+ORD1351,2025-09-09,Customer 351,East,West Bengal,Furniture,Office Chair,1,0.15,7225.0,1208.03,Amit,Debit Card,Sep,2025,0.16720138408304497
+ORD1352,2025-02-19,Customer 352,North,Delhi,Accessories,Backpack,3,0.2,5280.0,800.74,Neha,Credit Card,Feb,2025,0.15165530303030303
+ORD1353,2025-08-30,Customer 353,East,Odisha,Electronics,Headphones,1,0.1,4050.0,823.89,Vikas,UPI,Aug,2025,0.20342962962962963
+ORD1354,2025-01-23,Customer 354,West,Gujarat,Furniture,Bookshelf,4,0.1,25200.0,2563.32,Pooja,Cash,Jan,2025,0.10171904761904763
+ORD1355,2025-12-23,Customer 355,East,Bihar,Furniture,Bookshelf,5,0.0,35000.0,3349.23,Priya,UPI,Dec,2025,0.09569228571428572
+ORD1356,2025-09-25,Customer 356,East,Odisha,Accessories,Watch,5,0.0,25000.0,5323.39,Pooja,Net Banking,Sep,2025,0.2129356
+ORD1357,2025-01-18,Customer 357,South,Telangana,Accessories,Wallet,1,0.15,1020.0,227.94,Rahul,UPI,Jan,2025,0.22347058823529412
+ORD1358,2025-08-05,Customer 358,West,Maharashtra,Furniture,Desk,2,0.05,22800.0,2085.1,Rohit,Credit Card,Aug,2025,0.09145175438596491
+ORD1359,2025-10-12,Customer 359,South,Tamil Nadu,Clothing,Jacket,6,0.0,25200.0,2136.83,Anjali,Debit Card,Oct,2025,0.08479484126984127
+ORD1360,2025-10-18,Customer 360,West,Rajasthan,Electronics,Headphones,1,0.15,3825.0,365.05,Priya,UPI,Oct,2025,0.09543790849673203
+ORD1361,2025-09-06,Customer 361,North,Haryana,Clothing,Jacket,4,0.1,15120.0,2042.97,Pooja,UPI,Sep,2025,0.13511706349206348
+ORD1362,2025-12-22,Customer 362,South,Tamil Nadu,Clothing,Shoes,2,0.2,5600.0,971.44,Amit,Cash,Dec,2025,0.17347142857142858
+ORD1363,2025-07-10,Customer 363,East,West Bengal,Furniture,Office Chair,6,0.15,43350.0,9820.59,Anjali,Debit Card,Jul,2025,0.22654186851211072
+ORD1364,2025-04-27,Customer 364,East,West Bengal,Clothing,Shoes,6,0.0,21000.0,4941.81,Vikas,Cash,Apr,2025,0.23532428571428574
+ORD1365,2025-04-19,Customer 365,East,Odisha,Clothing,Shoes,5,0.0,17500.0,1784.11,Pooja,Net Banking,Apr,2025,0.10194914285714285
+ORD1366,2025-07-26,Customer 366,East,West Bengal,Electronics,Smartphone,1,0.1,25200.0,4803.8,Amit,Credit Card,Jul,2025,0.19062698412698414
+ORD1367,2025-07-04,Customer 367,South,Telangana,Furniture,Office Chair,2,0.0,17000.0,2509.14,Neha,Debit Card,Jul,2025,0.14759647058823527
+ORD1368,2025-05-04,Customer 368,East,Odisha,Accessories,Sunglasses,6,0.0,10800.0,2006.64,Pooja,Net Banking,May,2025,0.18580000000000002
+ORD1369,2025-03-25,Customer 369,West,Gujarat,Furniture,Cabinet,5,0.2,38000.0,4919.45,Priya,Debit Card,Mar,2025,0.1294592105263158
+ORD1370,2025-04-20,Customer 370,North,Delhi,Accessories,Backpack,2,0.2,3520.0,713.05,Neha,Credit Card,Apr,2025,0.2025710227272727
+ORD1371,2025-03-09,Customer 371,East,Bihar,Accessories,Backpack,6,0.0,13200.0,1987.87,Rahul,Net Banking,Mar,2025,0.1505962121212121
+ORD1372,2025-12-30,Customer 372,North,Haryana,Furniture,Bookshelf,5,0.1,31500.0,6021.73,Vikas,Cash,Dec,2025,0.19116603174603172
+ORD1373,2025-12-13,Customer 373,West,Rajasthan,Clothing,Shoes,3,0.05,9975.0,1489.65,Rohit,Net Banking,Dec,2025,0.14933834586466166
+ORD1374,2025-06-02,Customer 374,North,Haryana,Electronics,Tablet,5,0.2,88000.0,15271.39,Priya,Cash,Jun,2025,0.17353852272727271
+ORD1375,2025-05-14,Customer 375,North,Haryana,Clothing,Jacket,6,0.1,22680.0,4909.17,Vikas,Credit Card,May,2025,0.2164537037037037
+ORD1376,2025-12-15,Customer 376,South,Karnataka,Furniture,Office Chair,5,0.15,36125.0,6585.23,Amit,Cash,Dec,2025,0.18229010380622837
+ORD1377,2025-10-26,Customer 377,East,Bihar,Clothing,Shoes,4,0.15,11900.0,2323.41,Neha,Debit Card,Oct,2025,0.19524453781512605
+ORD1378,2025-12-03,Customer 378,South,Telangana,Accessories,Wallet,5,0.1,5400.0,1154.09,Rahul,Debit Card,Dec,2025,0.21372037037037037
+ORD1379,2025-10-14,Customer 379,North,Delhi,Accessories,Watch,6,0.1,27000.0,5218.61,Anjali,UPI,Oct,2025,0.19328185185185184
+ORD1380,2025-06-19,Customer 380,South,Tamil Nadu,Clothing,Jeans,6,0.1,13500.0,1909.98,Vikas,Net Banking,Jun,2025,0.14148
+ORD1381,2025-10-26,Customer 381,East,Bihar,Accessories,Backpack,4,0.0,8800.0,1912.12,Priya,Cash,Oct,2025,0.2172863636363636
+ORD1382,2025-03-19,Customer 382,South,Karnataka,Electronics,Headphones,5,0.1,20250.0,2839.62,Neha,Debit Card,Mar,2025,0.14022814814814813
+ORD1383,2025-09-07,Customer 383,West,Gujarat,Accessories,Watch,3,0.05,14250.0,2884.49,Rahul,Debit Card,Sep,2025,0.20242035087719296
+ORD1384,2025-03-28,Customer 384,North,Haryana,Electronics,Headphones,3,0.05,12825.0,2557.34,Rahul,Cash,Mar,2025,0.19940272904483433
+ORD1385,2025-09-02,Customer 385,North,Uttar Pradesh,Furniture,Cabinet,6,0.15,48450.0,6714.05,Amit,UPI,Sep,2025,0.13857688338493293
+ORD1386,2025-12-13,Customer 386,South,Karnataka,Clothing,Shirt,3,0.2,4320.0,442.36,Neha,Credit Card,Dec,2025,0.10239814814814815
+ORD1387,2025-06-06,Customer 387,East,West Bengal,Clothing,Jeans,1,0.15,2125.0,330.58,Priya,UPI,Jun,2025,0.1555670588235294
+ORD1388,2025-06-22,Customer 388,East,Odisha,Clothing,Shoes,6,0.2,16800.0,2879.23,Rahul,Debit Card,Jun,2025,0.1713827380952381
+ORD1389,2025-04-25,Customer 389,West,Rajasthan,Clothing,Jeans,2,0.15,4250.0,311.32,Rahul,Credit Card,Apr,2025,0.07325176470588235
+ORD1390,2025-11-24,Customer 390,North,Uttar Pradesh,Furniture,Office Chair,3,0.0,25500.0,3411.46,Amit,Net Banking,Nov,2025,0.13378274509803922
+ORD1391,2025-07-14,Customer 391,North,Delhi,Electronics,Laptop,1,0.0,55000.0,7746.85,Vikas,Cash,Jul,2025,0.1408518181818182
+ORD1392,2025-12-06,Customer 392,South,Telangana,Furniture,Office Chair,3,0.15,21675.0,3955.32,Vikas,Net Banking,Dec,2025,0.18248304498269896
+ORD1393,2025-02-28,Customer 393,South,Karnataka,Accessories,Backpack,5,0.2,8800.0,792.13,Pooja,Credit Card,Feb,2025,0.09001477272727272
+ORD1394,2025-01-21,Customer 394,South,Telangana,Clothing,Jeans,3,0.15,6375.0,766.34,Pooja,Credit Card,Jan,2025,0.12021019607843138
+ORD1395,2025-02-26,Customer 395,West,Rajasthan,Clothing,Jeans,1,0.0,2500.0,460.44,Pooja,Credit Card,Feb,2025,0.184176
+ORD1396,2025-06-01,Customer 396,North,Uttar Pradesh,Electronics,Laptop,3,0.05,156750.0,23143.78,Pooja,UPI,Jun,2025,0.1476477192982456
+ORD1397,2025-06-10,Customer 397,North,Uttar Pradesh,Furniture,Office Chair,3,0.1,22950.0,4733.93,Priya,UPI,Jun,2025,0.2062714596949891
+ORD1398,2025-08-13,Customer 398,North,Haryana,Electronics,Smartphone,6,0.05,159600.0,20089.23,Vikas,UPI,Aug,2025,0.12587236842105262
+ORD1399,2025-08-22,Customer 399,East,Odisha,Clothing,Jeans,1,0.15,2125.0,293.34,Rohit,Cash,Aug,2025,0.13804235294117645
+ORD1400,2025-03-23,Customer 400,West,Maharashtra,Furniture,Office Chair,2,0.0,17000.0,4026.73,Rohit,Net Banking,Mar,2025,0.2368664705882353
+ORD1401,2025-11-10,Customer 401,West,Maharashtra,Accessories,Watch,5,0.15,21250.0,4302.23,Rahul,Cash,Nov,2025,0.20245788235294115
+ORD1402,2025-12-02,Customer 402,West,Gujarat,Electronics,Headphones,4,0.0,18000.0,1453.81,Amit,Net Banking,Dec,2025,0.08076722222222221
+ORD1403,2025-12-06,Customer 403,South,Telangana,Clothing,Shirt,4,0.05,6840.0,1039.19,Rohit,Credit Card,Dec,2025,0.1519283625730994
+ORD1404,2025-03-26,Customer 404,North,Delhi,Electronics,Smartphone,5,0.15,119000.0,25563.35,Pooja,Debit Card,Mar,2025,0.21481806722689076
+ORD1405,2025-11-26,Customer 405,South,Tamil Nadu,Clothing,Jacket,1,0.2,3360.0,362.41,Rohit,Credit Card,Nov,2025,0.10786011904761905
+ORD1406,2025-09-13,Customer 406,North,Uttar Pradesh,Accessories,Sunglasses,5,0.15,7650.0,649.97,Anjali,UPI,Sep,2025,0.08496339869281046
+ORD1407,2025-10-09,Customer 407,West,Maharashtra,Electronics,Laptop,4,0.15,187000.0,14229.1,Priya,Net Banking,Oct,2025,0.07609144385026738
+ORD1408,2025-04-25,Customer 408,East,Odisha,Furniture,Cabinet,3,0.1,25650.0,5394.27,Anjali,Net Banking,Apr,2025,0.2103029239766082
+ORD1409,2025-04-24,Customer 409,West,Maharashtra,Clothing,Shoes,1,0.0,3500.0,696.8,Anjali,Debit Card,Apr,2025,0.19908571428571428
+ORD1410,2025-07-29,Customer 410,East,West Bengal,Clothing,Shirt,1,0.05,1710.0,262.85,Vikas,Net Banking,Jul,2025,0.15371345029239766
+ORD1411,2025-04-08,Customer 411,South,Telangana,Furniture,Office Chair,4,0.05,32300.0,4770.64,Anjali,UPI,Apr,2025,0.14769783281733748
+ORD1412,2025-09-16,Customer 412,West,Maharashtra,Electronics,Laptop,4,0.15,187000.0,34022.34,Pooja,UPI,Sep,2025,0.1819376470588235
+ORD1413,2025-03-30,Customer 413,North,Haryana,Accessories,Sunglasses,5,0.05,8550.0,1604.06,Rahul,UPI,Mar,2025,0.1876093567251462
+ORD1414,2025-05-08,Customer 414,West,Gujarat,Clothing,Shoes,4,0.2,11200.0,2527.89,Rohit,Debit Card,May,2025,0.22570446428571428
+ORD1415,2025-09-20,Customer 415,East,Odisha,Accessories,Watch,2,0.15,8500.0,1465.65,Anjali,Net Banking,Sep,2025,0.1724294117647059
+ORD1416,2025-12-11,Customer 416,South,Karnataka,Furniture,Desk,5,0.1,54000.0,10083.09,Rahul,Net Banking,Dec,2025,0.18672388888888888
+ORD1417,2025-12-08,Customer 417,East,Bihar,Electronics,Tablet,5,0.15,93500.0,15808.71,Rohit,Net Banking,Dec,2025,0.16907711229946523
+ORD1418,2025-03-16,Customer 418,East,West Bengal,Accessories,Backpack,5,0.0,11000.0,817.26,Amit,Credit Card,Mar,2025,0.07429636363636363
+ORD1419,2025-02-01,Customer 419,East,Bihar,Furniture,Bookshelf,6,0.1,37800.0,3586.95,Vikas,Credit Card,Feb,2025,0.09489285714285714
+ORD1420,2025-10-15,Customer 420,North,Delhi,Clothing,Shoes,1,0.2,2800.0,609.18,Rohit,Credit Card,Oct,2025,0.2175642857142857
+ORD1421,2025-12-17,Customer 421,East,Odisha,Electronics,Headphones,4,0.15,15300.0,3559.38,Amit,UPI,Dec,2025,0.23263921568627452
+ORD1422,2025-10-07,Customer 422,East,Bihar,Furniture,Cabinet,2,0.1,17100.0,3392.1,Neha,Credit Card,Oct,2025,0.19836842105263158
+ORD1423,2025-03-30,Customer 423,East,Bihar,Accessories,Watch,6,0.0,30000.0,3053.58,Priya,Cash,Mar,2025,0.101786
+ORD1424,2025-10-27,Customer 424,North,Uttar Pradesh,Accessories,Wallet,5,0.1,5400.0,497.4,Amit,Debit Card,Oct,2025,0.0921111111111111
+ORD1425,2025-11-17,Customer 425,West,Rajasthan,Furniture,Office Chair,2,0.1,15300.0,2623.49,Vikas,Cash,Nov,2025,0.17146993464052288
+ORD1426,2025-09-24,Customer 426,East,West Bengal,Electronics,Tablet,5,0.05,104500.0,24315.89,Rahul,Cash,Sep,2025,0.23268794258373204
+ORD1427,2025-06-19,Customer 427,West,Gujarat,Electronics,Tablet,2,0.05,41800.0,7639.65,Vikas,Credit Card,Jun,2025,0.18276674641148324
+ORD1428,2025-11-25,Customer 428,West,Rajasthan,Electronics,Laptop,6,0.1,297000.0,43291.74,Neha,UPI,Nov,2025,0.14576343434343433
+ORD1429,2025-05-25,Customer 429,East,West Bengal,Accessories,Backpack,4,0.1,7920.0,1281.78,Anjali,Net Banking,May,2025,0.1618409090909091
+ORD1430,2025-02-12,Customer 430,West,Maharashtra,Accessories,Backpack,3,0.05,6270.0,780.32,Rahul,Net Banking,Feb,2025,0.12445295055821372
+ORD1431,2025-08-06,Customer 431,North,Delhi,Electronics,Smartphone,6,0.05,159600.0,34639.85,Neha,Net Banking,Aug,2025,0.21704166666666666
+ORD1432,2025-01-20,Customer 432,West,Maharashtra,Electronics,Smartphone,1,0.15,23800.0,4566.45,Priya,UPI,Jan,2025,0.19186764705882353
+ORD1433,2025-07-28,Customer 433,South,Tamil Nadu,Clothing,Shirt,5,0.05,8550.0,1922.62,Pooja,Cash,Jul,2025,0.22486783625730994
+ORD1434,2025-11-25,Customer 434,West,Rajasthan,Clothing,Shirt,4,0.0,7200.0,1158.64,Priya,Net Banking,Nov,2025,0.16092222222222224
+ORD1435,2025-12-18,Customer 435,North,Uttar Pradesh,Electronics,Tablet,5,0.0,110000.0,13119.94,Priya,Debit Card,Dec,2025,0.11927218181818182
+ORD1436,2025-10-01,Customer 436,West,Maharashtra,Accessories,Sunglasses,6,0.0,10800.0,1626.24,Rahul,Cash,Oct,2025,0.15057777777777778
+ORD1437,2025-01-06,Customer 437,East,Bihar,Furniture,Bookshelf,6,0.1,37800.0,8798.2,Rahul,UPI,Jan,2025,0.23275661375661377
+ORD1438,2025-06-06,Customer 438,North,Delhi,Electronics,Headphones,5,0.2,18000.0,4157.76,Anjali,Credit Card,Jun,2025,0.23098666666666667
+ORD1439,2025-05-10,Customer 439,West,Maharashtra,Furniture,Desk,2,0.05,22800.0,3987.05,Priya,Credit Card,May,2025,0.17487061403508772
+ORD1440,2025-04-12,Customer 440,North,Haryana,Accessories,Backpack,3,0.0,6600.0,743.27,Pooja,Debit Card,Apr,2025,0.11261666666666667
+ORD1441,2025-04-10,Customer 441,East,Odisha,Furniture,Desk,1,0.1,10800.0,1893.43,Pooja,Cash,Apr,2025,0.1753175925925926
+ORD1442,2025-06-11,Customer 442,East,Odisha,Clothing,Jeans,5,0.2,10000.0,1319.64,Rahul,UPI,Jun,2025,0.131964
+ORD1443,2025-07-04,Customer 443,East,West Bengal,Furniture,Desk,6,0.15,61200.0,7162.58,Anjali,Cash,Jul,2025,0.11703562091503268
+ORD1444,2025-03-31,Customer 444,West,Rajasthan,Accessories,Wallet,3,0.15,3060.0,501.18,Priya,Debit Card,Mar,2025,0.1637843137254902
+ORD1445,2025-01-10,Customer 445,South,Telangana,Furniture,Bookshelf,6,0.0,42000.0,8133.82,Amit,Net Banking,Jan,2025,0.19366238095238095
+ORD1446,2025-10-04,Customer 446,West,Gujarat,Furniture,Office Chair,5,0.1,38250.0,6211.41,Rahul,Debit Card,Oct,2025,0.16238980392156863
+ORD1447,2025-02-16,Customer 447,West,Gujarat,Furniture,Bookshelf,2,0.15,11900.0,1846.77,Anjali,Net Banking,Feb,2025,0.155190756302521
+ORD1448,2025-04-02,Customer 448,North,Haryana,Furniture,Desk,5,0.05,57000.0,8313.88,Rahul,Cash,Apr,2025,0.1458575438596491
+ORD1449,2025-07-09,Customer 449,East,West Bengal,Electronics,Smartphone,4,0.05,106400.0,8585.03,Amit,Credit Card,Jul,2025,0.08068637218045113
+ORD1450,2025-11-29,Customer 450,East,Odisha,Accessories,Sunglasses,4,0.0,7200.0,552.84,Priya,Net Banking,Nov,2025,0.07678333333333334
+ORD1451,2025-12-01,Customer 451,East,West Bengal,Clothing,Jeans,4,0.15,8500.0,1122.85,Vikas,Cash,Dec,2025,0.1321
+ORD1452,2025-11-06,Customer 452,South,Karnataka,Accessories,Wallet,3,0.15,3060.0,626.54,Rahul,Cash,Nov,2025,0.20475163398692808
+ORD1453,2025-04-06,Customer 453,South,Karnataka,Furniture,Office Chair,5,0.1,38250.0,4052.89,Anjali,Net Banking,Apr,2025,0.10595790849673202
+ORD1454,2025-09-03,Customer 454,North,Uttar Pradesh,Furniture,Cabinet,3,0.0,28500.0,4327.95,Neha,Net Banking,Sep,2025,0.1518578947368421
+ORD1455,2025-10-31,Customer 455,South,Karnataka,Accessories,Backpack,2,0.0,4400.0,403.66,Rahul,Net Banking,Oct,2025,0.0917409090909091
+ORD1456,2025-09-22,Customer 456,North,Uttar Pradesh,Furniture,Office Chair,2,0.1,15300.0,3470.28,Amit,Debit Card,Sep,2025,0.22681568627450982
+ORD1457,2025-03-29,Customer 457,North,Delhi,Furniture,Cabinet,5,0.15,40375.0,8779.2,Rohit,Net Banking,Mar,2025,0.21744148606811148
+ORD1458,2025-11-02,Customer 458,South,Telangana,Furniture,Bookshelf,2,0.1,12600.0,2857.68,Priya,Credit Card,Nov,2025,0.22679999999999997
+ORD1459,2025-09-16,Customer 459,West,Rajasthan,Accessories,Watch,1,0.0,5000.0,522.0,Rohit,Credit Card,Sep,2025,0.1044
+ORD1460,2025-09-30,Customer 460,North,Haryana,Furniture,Cabinet,5,0.2,38000.0,2912.18,Priya,UPI,Sep,2025,0.07663631578947368
+ORD1461,2025-07-09,Customer 461,West,Maharashtra,Furniture,Office Chair,6,0.15,43350.0,6881.7,Rohit,Credit Card,Jul,2025,0.15874740484429065
+ORD1462,2025-03-10,Customer 462,West,Gujarat,Accessories,Wallet,5,0.2,4800.0,415.74,Pooja,Credit Card,Mar,2025,0.0866125
+ORD1463,2025-01-04,Customer 463,North,Haryana,Clothing,Shoes,3,0.05,9975.0,707.52,Priya,Net Banking,Jan,2025,0.07092932330827068
+ORD1464,2025-02-24,Customer 464,North,Delhi,Accessories,Watch,6,0.1,27000.0,3766.6,Rohit,Net Banking,Feb,2025,0.1395037037037037
+ORD1465,2025-12-15,Customer 465,East,Odisha,Clothing,Shoes,5,0.1,15750.0,2740.81,Neha,Cash,Dec,2025,0.17401968253968253
+ORD1466,2025-06-07,Customer 466,West,Rajasthan,Furniture,Bookshelf,5,0.2,28000.0,4262.7,Anjali,Cash,Jun,2025,0.15223928571428572
+ORD1467,2025-09-18,Customer 467,South,Tamil Nadu,Electronics,Smartphone,4,0.05,106400.0,9261.84,Anjali,Net Banking,Sep,2025,0.08704736842105264
+ORD1468,2025-03-16,Customer 468,North,Uttar Pradesh,Furniture,Cabinet,6,0.0,57000.0,11784.34,Rohit,UPI,Mar,2025,0.20674280701754386
+ORD1469,2025-07-16,Customer 469,North,Uttar Pradesh,Clothing,Jeans,3,0.0,7500.0,1301.51,Vikas,Net Banking,Jul,2025,0.17353466666666667
+ORD1470,2025-12-03,Customer 470,North,Haryana,Furniture,Cabinet,4,0.0,38000.0,3963.03,Vikas,Credit Card,Dec,2025,0.10429026315789475
+ORD1471,2025-12-02,Customer 471,North,Delhi,Furniture,Desk,6,0.0,72000.0,9443.22,Rahul,UPI,Dec,2025,0.13115583333333333
+ORD1472,2025-04-13,Customer 472,East,Bihar,Accessories,Wallet,6,0.15,6120.0,850.23,Amit,UPI,Apr,2025,0.1389264705882353
+ORD1473,2025-04-10,Customer 473,North,Uttar Pradesh,Clothing,Jacket,3,0.1,11340.0,1230.05,Rohit,Net Banking,Apr,2025,0.1084700176366843
+ORD1474,2025-02-07,Customer 474,North,Haryana,Clothing,Jeans,4,0.2,8000.0,704.79,Vikas,Debit Card,Feb,2025,0.08809874999999999
+ORD1475,2025-10-16,Customer 475,North,Uttar Pradesh,Clothing,Jacket,6,0.15,21420.0,5017.19,Neha,Debit Card,Oct,2025,0.23422922502334265
+ORD1476,2025-07-15,Customer 476,West,Rajasthan,Accessories,Backpack,4,0.0,8800.0,1001.7,Neha,Credit Card,Jul,2025,0.11382954545454546
+ORD1477,2025-05-15,Customer 477,East,West Bengal,Accessories,Wallet,5,0.2,4800.0,343.93,Vikas,UPI,May,2025,0.07165208333333334
+ORD1478,2025-07-01,Customer 478,West,Maharashtra,Clothing,Shirt,5,0.05,8550.0,1291.17,Vikas,Credit Card,Jul,2025,0.1510140350877193
+ORD1479,2025-04-16,Customer 479,South,Karnataka,Accessories,Watch,2,0.05,9500.0,2074.48,Neha,Credit Card,Apr,2025,0.2183663157894737
+ORD1480,2025-12-06,Customer 480,East,Odisha,Furniture,Office Chair,1,0.0,8500.0,1571.55,Amit,Net Banking,Dec,2025,0.18488823529411763
+ORD1481,2025-10-22,Customer 481,North,Uttar Pradesh,Accessories,Wallet,5,0.1,5400.0,829.97,Pooja,Credit Card,Oct,2025,0.15369814814814817
+ORD1482,2025-08-05,Customer 482,East,Odisha,Accessories,Watch,5,0.05,23750.0,1881.12,Amit,Net Banking,Aug,2025,0.07920505263157894
+ORD1483,2025-08-24,Customer 483,East,Odisha,Accessories,Watch,4,0.0,20000.0,3774.03,Amit,UPI,Aug,2025,0.18870150000000002
+ORD1484,2025-05-13,Customer 484,South,Karnataka,Accessories,Backpack,3,0.1,5940.0,1034.58,Vikas,Credit Card,May,2025,0.17417171717171717
+ORD1485,2025-04-18,Customer 485,East,Odisha,Accessories,Wallet,3,0.05,3420.0,529.38,Anjali,Debit Card,Apr,2025,0.15478947368421053
+ORD1486,2025-10-22,Customer 486,West,Rajasthan,Clothing,Shoes,2,0.2,5600.0,516.84,Neha,UPI,Oct,2025,0.09229285714285715
+ORD1487,2025-03-18,Customer 487,East,Odisha,Furniture,Cabinet,4,0.05,36100.0,3422.04,Amit,Credit Card,Mar,2025,0.09479335180055401
+ORD1488,2025-06-11,Customer 488,West,Gujarat,Accessories,Watch,6,0.2,24000.0,3858.65,Vikas,Debit Card,Jun,2025,0.16077708333333335
+ORD1489,2025-05-11,Customer 489,North,Uttar Pradesh,Accessories,Backpack,6,0.05,12540.0,1005.79,Priya,Cash,May,2025,0.08020653907496013
+ORD1490,2025-05-12,Customer 490,East,Odisha,Clothing,Jacket,3,0.2,10080.0,1660.92,Amit,Cash,May,2025,0.16477380952380954
+ORD1491,2025-10-03,Customer 491,North,Delhi,Clothing,Jeans,5,0.2,10000.0,1804.77,Vikas,Debit Card,Oct,2025,0.180477
+ORD1492,2025-08-26,Customer 492,East,Bihar,Accessories,Sunglasses,1,0.15,1530.0,266.71,Rahul,Credit Card,Aug,2025,0.1743202614379085
+ORD1493,2025-04-27,Customer 493,East,Odisha,Accessories,Sunglasses,1,0.0,1800.0,175.57,Anjali,Debit Card,Apr,2025,0.09753888888888888
+ORD1494,2025-09-24,Customer 494,East,Odisha,Accessories,Wallet,4,0.1,4320.0,851.65,Rohit,Credit Card,Sep,2025,0.1971412037037037
+ORD1495,2025-12-25,Customer 495,South,Telangana,Electronics,Smartphone,6,0.05,159600.0,29134.0,Priya,Credit Card,Dec,2025,0.1825438596491228
+ORD1496,2025-08-31,Customer 496,South,Telangana,Accessories,Backpack,1,0.0,2200.0,504.36,Amit,UPI,Aug,2025,0.22925454545454546
+ORD1497,2025-12-02,Customer 497,West,Gujarat,Electronics,Laptop,3,0.2,132000.0,12724.36,Vikas,Credit Card,Dec,2025,0.09639666666666667
+ORD1498,2025-03-29,Customer 498,South,Karnataka,Clothing,Shoes,6,0.05,19950.0,1841.73,Amit,Debit Card,Mar,2025,0.09231729323308271
+ORD1499,2025-03-11,Customer 499,East,Bihar,Accessories,Sunglasses,5,0.1,8100.0,1322.35,Rahul,Net Banking,Mar,2025,0.16325308641975309
+ORD1500,2025-02-15,Customer 500,West,Gujarat,Accessories,Wallet,3,0.15,3060.0,494.94,Vikas,Debit Card,Feb,2025,0.1617450980392157
