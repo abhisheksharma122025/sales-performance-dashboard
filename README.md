@@ -10,6 +10,9 @@ An interactive **Sales Performance Dashboard** built in Microsoft Excel to analy
 - Pivot Charts
 - KPI Cards
 - Excel Charts
+- ## 📊 Dashboard Preview
+
+![Sales Performance Dashboard](Sales_Dashboard.png)
 - Slicers / Filters
 
 ## Dataset
